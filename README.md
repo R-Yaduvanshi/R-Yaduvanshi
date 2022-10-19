@@ -12,9 +12,11 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 # 📊 GitHub Stats:
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=R-Yaduvanshi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Rajendra" height="174" />
-  <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Yaduvanshi&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Rajendra" height="174" />
+    
 </p><br/>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Yaduvanshi&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Rajendra" height="174" /></p>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Yaduvanshi&theme=dark" alt="rajendra" /></p>
 
 ### ✍️ Random Dev Quote
